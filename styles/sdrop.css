@@ -1,0 +1,49 @@
+!important for all bulma overrides
+link to my css file in head
+add google font in css
+
+
+
+.container  {
+  font-family: 'Lato', sans-serif !important;
+}
+
+#greenbutton {
+  background: #009953;
+}
+
+#darkgreenbutton {
+  background: #006546;
+  color: white;
+}
+
+#darkgreenbutton:hover {
+  background: #009953;
+}
+
+#bluebutton {
+  background: #004264;
+}
+
+#yellowbutton {
+  background: #EACC1B;
+}
+
+#orangebutton {
+  background: #EC9223;
+  color: white;
+}
+
+#orangebutton:hover {
+  background: #FF8D00;
+
+}
+
+#shoptitle {
+  color:#183860 !important;
+  margin-bottom: 2rem;
+}
+
+div.mce_inline_error {
+      color: red;
+  }
